@@ -1,4 +1,4 @@
-# 🕵️ Forela Forum Breach Investigation
+# 🕵️ Endpoint Analysis (Bumblebee HTB)
 
 ## Task 1: Identify the External Contractor
 
